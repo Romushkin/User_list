@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">User directory</string>
+    <string name="name">Введите имя</string>
+    <string name="age">Введите возраст</string>
+    <string name="save_text">Сохранить</string>
+    <string name="exit">Exit</string>
+</resources>
